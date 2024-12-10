@@ -1,8 +1,11 @@
 {
     "java.project.sourcePaths": [
-        "TicTacToe/src",
         "SideScroller/src",
         "Pong/src",
         "BudgetApp/src",
     ],
+
+    "java.project.outputPath": "bin"
+
+
 }

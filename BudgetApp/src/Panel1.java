@@ -58,7 +58,7 @@ public class Panel1 extends JPanel {
 	BufferedImage backgroundLogo = retro1Logo;
 	
 	Clip buttonSound = loadSound("BudgetApp/src/zbuttonClickSound.wav");
-	Clip bottleOpeningSound = loadSound("BudgetApp/src/zopenBottleSound.wav");
+	Clip bottleOpeningSound = loadSound("zopenBottleSound.wav");
 	Clip retroButtonSound = loadSound("BudgetApp/src/zbitButton.wav");
 	Clip currentClickSound = retroButtonSound;
 
